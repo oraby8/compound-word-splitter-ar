@@ -5,4 +5,5 @@
 *.xml
 *.iml
 *\venv
+*.idea
 
