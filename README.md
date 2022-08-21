@@ -1,4 +1,4 @@
-# Compound words splitter for arabic.
+# Compound word splitter for arabic.
 A recursive python script to break down compound arabic word using 
 spellchecker and splitter algorithm
 # Installation
